@@ -1,0 +1,6 @@
+# 《面向智能体的可解释纠错系统设计与实现》项目依赖
+# 安装方式（在项目目录下，使用项目虚拟环境）：
+#   D:\AgentThesis\.venv\Scripts\python12.exe -m pip install -r requirements.txt
+#
+# 说明：只固定直接依赖，间接依赖由 pip 自行解析。
+streamlit==1.65.0

@@ -1,0 +1,10 @@
+# 虚拟环境：README 中已说明不纳入版本管理
+.venv/
+
+# Python 字节码与缓存
+__pycache__/
+*.py[cod]
+
+# 测试与类型检查缓存
+.pytest_cache/
+.mypy_cache/
